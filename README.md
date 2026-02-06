@@ -36,9 +36,32 @@ Para este análisis, desarrollamos tres variables objetivo clave para clasificar
 ## 📊 Visualizaciones
 
 > **Nota:** Aquí puedes ver algunos de los resultados clave obtenidos tras el entrenamiento del modelo.
+### 📈 Rendimiento y Disciplina
+El análisis comenzó comparando cómo la disciplina en el plato se relaciona con el rendimiento general de los bateadores.
 
-*Ejemplo de importancia de variables (Feature Importance):*
-![Importancia de Variables](https://via.placeholder.com/800x400?text=Insertar+aquí+el+gráfico+de+Random+Forest)
+<p align="center">
+  <img src="img/disciplina%20en%20plato%20vs%20rendimiento.png" width="600" alt="Disciplina vs Rendimiento">
+</p>
+
+### 🧠 Importancia de las Variables (Feature Importance)
+Utilizamos modelos de **Random Forest** para identificar qué métricas son las que realmente definen a un jugador en las tres categorías analizadas:
+
+| Disciplina en el Plato | Rendimiento General |
+| :---: | :---: |
+| <img src="img/Variables%20importante%20en%20la%20disciplina%20plato.png" width="400"> | <img src="img/Variables%20importantes%20para%20saber%20el%20rendimiento%20general.png" width="400"> |
+
+### 💎 Identificación de Jugadores Élite
+El modelo permite distinguir qué factores separan a un jugador promedio de uno Élite, destacando métricas como el **wOBA** (Weighted On-Base Average).
+
+<p align="center">
+  <img src="img/Variable%20importantes%20en%20determionar%20un%20elite%20o%20no.png" width="700" alt="Variables Elite">
+  <br>
+  <em>Factores clave para determinar el estatus Elite.</em>
+</p>
+
+<p align="center">
+  <img src="img/wOba%20en%20jugadores%20Elite%20y%20no%20Elite.png" width="500" alt="wOBA Elite vs No Elite">
+</p>
 
 ## 👥 Equipo D.A.T.A
 *Unidos por el análisis de datos y la pasión por el béisbol.*
